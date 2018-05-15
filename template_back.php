@@ -16,7 +16,7 @@ include("inc/nav.inc.php");
     
 
     <div class="starter-template">
-        <h1><span class="glyphicon glyphicon-home"></span> Template</h1> 
+        <h1><span class="glyphicon glyphicon-home"></span> TOTO</h1> 
         <?= $message; // affiche le message de init.inc.php?>        
     </div>
 
